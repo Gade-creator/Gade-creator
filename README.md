@@ -71,6 +71,4 @@ If you like my work, feel free to **star** my projects or contribute! It’s a g
 
 ---
 
-<p align="center">
-    <img src="https://your-image-link.com/footer-banner.jpg" width="100%">
-</p>
+
